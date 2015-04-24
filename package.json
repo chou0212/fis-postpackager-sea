@@ -1,0 +1,24 @@
+{
+  "name": "fis-postpackager-sea",
+  "version": "0.4.8",
+  "description": "a postpackager plugin for fis to create sea-config.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chou0212/fis-postpackager-sea.git"
+  },
+  "keywords": [
+    "fis",
+    "postpackager",
+    "seajs",
+    "spm"
+  ],
+  "author": "chou0212",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chou0212/fis-postpackager-sea/issues"
+  }
+}
